@@ -1,4 +1,4 @@
-nombre = input("Ejercicio 8\nIngresa tu nombre: ")
+nombre = input("Ingresa tu nombre: ")
 apellido = input("Ingresa tu apellido: ")
 
 correo = nombre.lower() + "." + apellido.lower() + "@uam.edu.ni"
